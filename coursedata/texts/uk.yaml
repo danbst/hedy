@@ -1,0 +1,100 @@
+ui:
+    level_title: Рівень
+    step_title: Завдання
+    code_title: Код
+    docs_title: Пояснення
+    contact: Контакт
+    video_title: Відео
+    run_code_button: Запустити
+    read_code_label: Прочитати вголос
+    save_code_button: Зберегти код
+    edit_code_button: Змінити код
+    share_code_button: Зберегти та поділитись
+    regress_button: Назад на рівень
+    advance_button: Вперед на рівень
+    advance_step_button: До завдання
+    try_button: Спробувати
+    enter_text: Напиши свою відповідь тут...
+    enter: Enter
+    assignment_header: Завдання
+    show_explanation: Показати пояснення
+    hide_explanation: Сховати пояснення
+    adventure: Пригоди
+    switch_to_levels: Вийти з режиму Пригод
+    switch_to_adventures: Почати Пригоди
+    switch_to_another_adventure: Вибрати іншу Пригоду
+    commands_title: Команди
+    by: by
+ClientErrorMessages:
+    Transpile_warning: Увага!
+    Transpile_error: Не можу запустити твою програму.
+    Connection_error: Сервер не відповідає.
+    Other_error: Ой! Схоже ми зробили якусь помилку.
+    Execute_error: Щось пішло не так при запуску програми.
+    CheckInternet: Можливо у тебе проблеми з інтернетом? Можеш перевірити?
+    ServerError: Ми не очікували такої програми. Якщо хочеш допомогти, напиши нам листа на hedy@felienne.com, з номером рівня і кодом програми. А поки-що спробуй написати по інакшому і обов'язково перевір приклади. Дякую!
+HedyErrorMessages:
+    Wrong Level: Це правильний код на Хейді, але не для цього рівня. Ти написав код для рівня {original_level}, але зараз знаходишся на рівні {working_level}.
+    Incomplete: Ой! Ти забув шматок коду! На рядку {line_number} потрібно дописати текст під  {incomplete_command}.
+    Invalid: '{invalid_command} не є командою для рівня {level} в Хейді. Можливо малось на увазі {guessed_command}?'
+    Invalid Space: Ой! Рядок {line_number} має пробіл на початку. Пробіли збивають комп'ютерів з пантелику, можеш прибрати?
+    Parse: Написаний код не є правильний Хейді кодом. Там є помилка на рядку {location[0]}, в позиції {location[1]}. Надруковано {character_found}, але так не можна.
+    Unquoted Text: Обережно. Якщо ти питаєш або виводиш щось на екран, текст повинен починатись та закінчуватись лапками. Схоже, ти забув/-ла одну десь.
+    VarUndefined: Ти спробував/-ла вивести на екран {name}, але її спочатку треба було створити.
+    space: пробіл
+    comma: кома
+    question mark: знак питання
+    newline: перевід рядка
+    period: крапка
+    exclamation mark: знак оклику
+    dash: дефіс
+    star: зірочка
+    single quotes: одинарна лапка
+    double quotes: подвійні лапки
+    slash: слеш
+Auth:
+    create_account: Створити акаунт
+    create_account_explanation: Ваш акаунт дозволить зберігати ваші програми.
+    username: Логін
+    email: Електронна пошта
+    email_repeat: Повторіть пошту
+    password: Пароль
+    password_repeat: Повторіть пароль
+    birth_year: Рік народження (не обов'язково)
+    gender: Стать (не обов'язково)
+    select: Вибрати
+    female: Жіноча
+    male: Чоловіча
+    other: Інша
+    country: Країна
+    subscribe_newsletter: Підписатись на розсилку новин
+    already_account: Маєш акаунт?
+    login_long: Ввійти в свій акаунт
+    login: Ввійти
+    no_account: Не маєш акаунту?
+    profile: Мій профіль
+    update_profile: Оновити профіль
+    logout: Вийти
+    destroy: Видалити акаунт назавжди
+    current_password: Поточний пароль
+    new_password: Новий пароль
+    repeat_new_password: Повторити новий пароль
+    change_password: Змінити пароль
+    are_you_sure: Впевнений/-на? Цього не можна буде відмінити.
+    please_username: Введи логін.
+    username_three: Логін повинен мати не менше 3 символів.
+    username_special: Логін не може містити `:` або `@`.
+    please_password: Введи пароль.
+    password_six: Пароль повинен мати не менше 6 символів.
+    repeat_match_email: Повтор пошти не співпадає з поштою.
+    repeat_match_password: Повтор пароля не співпадає з паролем.
+    valid_email: Введи коректну пошту
+    valid_year: Введи рік між 1900 і
+    ajax_error: Сталась помилку, спробуй ще раз.
+    please_username_email: Введи логін або пошту.
+    profile_updated: Профіль оновлено.
+    password_updated: Пароль оновлено.
+    signup_success: Ти зареєстований/-на! Будь-ласка, залогінся.
+    forgot_password: Забув/-ла пароль?
+    recover_password: Запросити зміну пароля.
+    send_password_recovery: Відправте мені лінк на відновлення паролю.
