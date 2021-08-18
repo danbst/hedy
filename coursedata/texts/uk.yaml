@@ -134,4 +134,46 @@ Auth:
     unsaved_changes: У вас є незбережена програма. Чи бажаєте вийти без збереження?
     save_success: Збережено
     save_success_detail: Програма була успішно збережена
-    share_success_detail: ''
+    share_success_detail: Програма готова до поширення і лінк на поширення скопіювано в буфер обміну
+    unshare_success_detail: Програма більше недоступна для поширення
+    copy_clipboard: Скопійовано в буфер обміну
+    answer_question: Спочатку введи відповідь на питання
+    must_be_logged: Потрібно залогінитись, щоб зеберенти програму
+    class_name_prompt: Введіть назву класу
+    delete_class_prompt: Ви впевнені, що збираєтесь видалити клас?
+    remove_student_prompt: Ви впевнені, що збиреєтесь видалити учня з класу?
+    student_classes: Мої класи
+    teacher_classes: Мої класи
+    create_class: Створити новий клас
+    delete_class: Видалити клас (назавжди)
+    class_link: Посилання на підключення до класу
+    prompt_join_class: Чи хочете приєднатись до класу?
+    join_class: Приєднатись
+    class_overview: Огляд класу
+    class_join_confirmation: Ви приєднались до класу
+    last_login: Останні логін
+    highest_level_reached: Найвищий досягнутий рівень
+    number_programs: Кількість програм
+    latest_shared_program: Остання поширена програма
+    remove_student: Видалити учня
+    students: учні
+    copy_class_link: Скопіювати лінк на підключення до класу
+    join_prompt: Вам потрібно мати акаунт, щоб підключитись до класу. Бажаєте залогінитись зараз?
+Programs:
+    recent: Мої останні програми
+    level: Рівень
+    minutes: хвилини
+    hours: години
+    days: дні
+    ago-1: ''
+    ago-2: назад
+    open: Відкрити
+    delete: Видалити
+    delete_confirm: Ви впевнені, що хочете видалити програму?
+    share: Поділитись
+    share_confirm: Ви впевнені, що хочете зробити програму публічно доступною?
+    unshare: Відключити публічний доступ
+    unshare_confirm: Ви впевнені, що збираєтесь зробити програму приватною?
+    copy_link_to_share: Скопіювати лінк на поширення
+    no_programs: У вас ще немає програм.
+    write_first: Написати першу програму!
