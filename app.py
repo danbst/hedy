@@ -46,6 +46,7 @@ ALL_LANGUAGES = {
     'de': 'Deutsch',
     'it': 'Italiano',
     'sw': 'Swahili',
+    'uk': 'Українська',
     'hu': 'Magyar',
     'el': 'Ελληνικά',
     "zh": "简体中文",
